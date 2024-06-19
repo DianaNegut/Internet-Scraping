@@ -3,6 +3,11 @@ Vreau sa implementez o aplicatie auxiliara site-ului eMAG care sa permita utiliz
 Aceasta aplicatie are rolul de a urmari evolutia preturilor.
 
 ## 18.06.2024
- -> am implementat functionalitatea care construieste URL-ul de cautare pe eMAG al unui produs 
- -> fac o cerere HTTP GET catre URL-ul produsului si parsez pentru a obtin pretul produsului
- -> fac verificare daca pretul este mai mic decat cel pe care l a ales utilizatorul sa primeasca o notificare
+ - am implementat functionalitatea care construieste URL-ul de cautare pe eMAG al unui produs 
+ - fac o cerere HTTP GET catre URL-ul produsului si parsez pentru a obtin pretul produsului
+ - fac verificare daca pretul este mai mic decat cel pe care l a ales utilizatorul sa primeasca o notificare
+
+ ## 19.06.2024 
+- am implementat o parte din  interfata grafica pentru aplicatie
+- m-am documentat si am gasit o modalitate de a trimite email folosindu-ma de bibliotecile puse la dispozitie de python
+- am facut configurarile necesare din contul de gmail creat special pentru trimiterea emailurilor 
