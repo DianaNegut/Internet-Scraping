@@ -11,3 +11,13 @@ Aceasta aplicatie are rolul de a urmari evolutia preturilor.
 - am implementat o parte din  interfata grafica pentru aplicatie
 - m-am documentat si am gasit o modalitate de a trimite email folosindu-ma de bibliotecile puse la dispozitie de python
 - am facut configurarile necesare din contul de gmail creat special pentru trimiterea emailurilor 
+
+
+## 20.06.2024
+- am facut o prima pagina care sa afiseze un mesaj de "Bun venit!" 
+- ofer posibilitatea userului sa aleaga intre modurile in care vrea sa lucreze (Local -> adica sa primeasca notificari doar in aplicatie si prin Email -> sa fie anuntat printr-un email daca pretul produsului selectat de el a scazut sub o anumita valoare)
+- exista 2 pagini diferite pentru fiecare optiune selectata
+- pentru meniul de Email avem o sectiune unde userul trebuie sa isi introduca emailul intr-un text box
+- urmeaza pagina de selectare produs care este comuna atat pentru optiunea de Email cat si pentru cea de Local 
+- userul poate sa primeasca o notificare in aplicatie si/ sau email in functie de modul in care se afla
+- trebuie sa implementez si un buton de back pentru a ma putea intoarce din meniul de optiune cu email in cel de Local
