@@ -21,3 +21,13 @@ Aceasta aplicatie are rolul de a urmari evolutia preturilor.
 - urmeaza pagina de selectare produs care este comuna atat pentru optiunea de Email cat si pentru cea de Local 
 - userul poate sa primeasca o notificare in aplicatie si/ sau email in functie de modul in care se afla
 - trebuie sa implementez si un buton de back pentru a ma putea intoarce din meniul de optiune cu email in cel de Local
+
+# 21.06.2024
+- am reusit sa fac scarping pe si pe site-ul Altex
+- rezultatul paginii vine intr-un xhr si a trebuit sa gestionez acest rezultat
+- am inceput sa implementez interfata grafica a aplicatiei
+
+
+## 25.06.2024
+- am facut functionalitatea de copy link care creeaza linkul (in cazul site-ului Altex) sau il ia din pagina site-ului (Emag) dupa care o copiaza in clipboard-ul userului
+- am lucrat in continuare la interfata grafica a aplicatiei
